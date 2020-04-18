@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.rogue.Android.example"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Dodong Adventure</name>
+
+  <description>
+      Adventure of Dodong
+  </description>
+
+  <author href="https://build.phonegap.com" email="Pogiako@phonegap.com">
+      Randel Pogi
+  </author>
+
+</widget>
